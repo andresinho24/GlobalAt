@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+}
+
+header{
+    display: flex;
+    height: 75px;
+    justify-content: space-between;
+    background-color: rgba(230, 157, 252, 0.897);
+    padding: 15px;
+    
+}
+    
+.logo{
+    display: flex;
+    align-items: left;
+}
+    
+.c:\Users\nahin\Downloads\colo.png{
+        height: 50px;
+        margin-right: 10px;
+}       
+
+.texto{
+        text-align: center;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        text-transform: uppercase;
+        color: #061810;
+        font-size: 35px;
+
+}
+
+body{
+
+    background: #a0a5f1;
+    display: flexbox;
+    place-content: center ;
+}
+
+.container {
+    width: 85%;
+}
+
+.container path {
+    fill: #1d5017;
+    stroke: #f7f6e2;
+    stroke-width: 2x;
+}
+
+.container :hover {
+    fill: #a82c2cee;
+
+}
+
